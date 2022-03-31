@@ -11,6 +11,7 @@ public class Test {
 	            	
 	            	WebDriver.driver = new ChromeDriver();
 	            	
+	            	sysout.println();
 	                                                                            	
 				}
 
